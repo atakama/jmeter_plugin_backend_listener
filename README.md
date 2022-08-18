@@ -11,11 +11,17 @@
 
 This plugin aims to send jmeter metrics to Atakama Infrastructure
 
+![image](https://user-images.githubusercontent.com/2484866/185396744-e3850f78-f56c-4ca8-9fe1-9b772f034779.png)
+
+![image](https://user-images.githubusercontent.com/2484866/185396961-815e8835-6622-48ea-96ea-31b1a1b903d4.png)
+
 ![image](https://user-images.githubusercontent.com/2484866/185346805-24a4c47f-35d4-4905-a35b-dc56ab1070dd.png)
 
 ![Sans titre](https://user-images.githubusercontent.com/2484866/185347515-563a0963-f112-4726-b0ac-e0d36af66ea9.png)
 
 ![essai](https://user-images.githubusercontent.com/2484866/185349253-1a2e7c0f-bfe9-4774-ac91-f96c188abf5b.png)
+
+
 
 ## License  :
 
