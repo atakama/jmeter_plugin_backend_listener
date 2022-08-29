@@ -26,3 +26,6 @@ This plugin aims to send jmeter metrics to Atakama Infrastructure
 ## License  :
 
 This plugin uses a license file to work. Please contact us at **ldeville@atakama-technologies.com**
+
+![image](https://user-images.githubusercontent.com/2484866/187166068-bf8a6a51-ae60-4f01-b720-8fbc8a8166fc.png)
+
