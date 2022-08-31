@@ -23,9 +23,13 @@ This plugin aims to send jmeter metrics to Atakama Infrastructure
 
 ![image](https://user-images.githubusercontent.com/2484866/185421752-ebbcdb9d-8055-49a9-952f-d9540599abcc.png)
 
-## License  :
+## About ATAKAMA Technologies  :
 
-This plugin uses a license file to work. Please contact us at **ldeville@atakama-technologies.com**
+**<ins>Get free trial license email to Lea Deville</ins>** : **<ins>ldeville@atakama-technologies.com</ins>**
 
-![image](https://user-images.githubusercontent.com/2484866/187166490-4ea9f681-30ab-4c6b-81ea-cadd373819bd.png)
+- ATAKAMA is a leading MSP for load testing projects
+
+- ATAKAMA provides Powerhouse Nudge Performer the most complete Performance Testing Tool  including Performance Infrastructure Monitoring, APM, RUM (Real user Monitoring on several locations worldwide), Web page in depth performance analysis
+
+- ATAKAMA provides Powerhouse Nudge APM strongly oriented for Application Performance Monitoring and in depth diagnosys and profiling for developers
 
